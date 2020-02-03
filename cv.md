@@ -30,3 +30,28 @@ I'm constantly engaged in self-improvement and strive to achieve results in what
 ## Code examples
 
 [https://github.com/YauhenDavidovich/](https://github.com/YauhenDavidovich/)
+
+## Experience
+
+**04/2018 – 05/2019 – EPAM Systems**
+
+**Course: Software Testing Introduction**
+
+**Description:**
+
+- Planning and organization of the testing process.
+- Testing of documentation and requirements.
+- Development of tests and test scenarios.
+- Search and documentation of defects.
+- Reporting on test results.
+- Basics of automated testing.
+
+**12/2018 – 04/2019 – Educational Center of HTP**
+
+**Course: Python Test Automation**
+
+**Description:**
+
+- Linux: Installation and exploration. Shell basics. Commands execution. Bash configuration. Environment and tools. VCS.
+- Python: Overview and Syntax. IDE. Function and Tools. Debug. Troubleshooting. Unit tests. Exception handling and Regular Expression. Standard Library. Multithreading.Multiprocessing.
+- Automation: Software Testing. Automated Testing and Deployment. CI/CD.
