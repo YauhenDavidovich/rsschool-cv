@@ -33,7 +33,7 @@ I'm constantly engaged in self-improvement and strive to achieve results in what
 
 ## Experience
 
-**04/2018 – 05/2019 – EPAM Systems**
+**04/2019 – 05/2019 – EPAM Systems**
 
 **Course: Software Testing Introduction**
 
@@ -75,3 +75,13 @@ I'm constantly engaged in self-improvement and strive to achieve results in what
 **2006 – 2013 – Belarusian National Technical University**
 
 **Specialization: Technology of Mechanical Engineering**
+
+## English
+
+**03/2019 – 05/2019 – EN Discovery**
+
+**Course: Express Course (Intermediate)**
+
+**09/2018 – 11/2018 – Educational Center of HTP**
+
+**Course: English for IT (Pre-Intermediate)**
