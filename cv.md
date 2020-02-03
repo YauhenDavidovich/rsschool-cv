@@ -55,3 +55,23 @@ I'm constantly engaged in self-improvement and strive to achieve results in what
 - Linux: Installation and exploration. Shell basics. Commands execution. Bash configuration. Environment and tools. VCS.
 - Python: Overview and Syntax. IDE. Function and Tools. Debug. Troubleshooting. Unit tests. Exception handling and Regular Expression. Standard Library. Multithreading.Multiprocessing.
 - Automation: Software Testing. Automated Testing and Deployment. CI/CD.
+
+## Education
+
+**09/2019 – 11/2019 – RSSCHOOL**
+
+**09/2019 – 09/2019 – Codecademy**
+
+**Course: Introduction to HTML, Learn CSS**
+
+**04/2019 – 05/2019 – EPAM Systems**
+
+**Course: Software Testing Introduction**
+
+**12/2018 – 04/2019 – Educational Center of HTP**
+
+**Course: Python Test Automation**
+
+**2006 – 2013 – Belarusian National Technical University**
+
+**Specialization: Technology of Mechanical Engineering**
