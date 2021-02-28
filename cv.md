@@ -15,15 +15,11 @@ I'm constantly engaged in self-improvement and strive to achieve results in what
 
 ## Skills
 
-**Test Management Tools:** Jenkins
-
-**Database Management:** MySQL
-
 **OS:** Windows, Linux
 
 **Automation Testing Tools:** Selenium Webdriver, Selenium IDE
 
-**Web Tools:** CSS, HTML, Python, MySQL, GitHub, WordPress, JavaScript
+**Web Tools:** CSS, HTML, Sass, JavaScript, TypeScript, React
 
 **Adobe Creative Cloud:** Photoshop, Illustrator
 
@@ -32,6 +28,10 @@ I'm constantly engaged in self-improvement and strive to achieve results in what
 [https://github.com/YauhenDavidovich/](https://github.com/YauhenDavidovich/)
 
 ## Experience
+
+**09/2020 – 02/2021 – The Rolling Scopes School**
+
+**Course: JavaScript/Front-end 2020 Q3**
 
 **04/2019 – 05/2019 – EPAM Systems**
 
@@ -58,7 +58,7 @@ I'm constantly engaged in self-improvement and strive to achieve results in what
 
 ## Education
 
-**09/2019 – 11/2019 – RSSCHOOL**
+**09/2020 – 11/2021 – RSSCHOOL**
 
 **09/2019 – 09/2019 – Codecademy**
 
