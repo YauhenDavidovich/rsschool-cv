@@ -1,87 +1,66 @@
 # YAUHEN DAVIDOVICH
 
-**Phone: +375445327237**
-
-**Email: davidovichyauhen@gmail.com**
-
-**Skype: yauhen\_davidovich**
-
-**Linkedin:** [**www.linkedin.com/in/yauhendavidovich**](http://www.linkedin.com/in/yauhendavidovich)
+**Location:** Cracow, Małopolskie, Poland  
+**Contact:** [davidovichyauhen@gmail.com](mailto:davidovichyauhen@gmail.com)
+**LinkedIn:** [www.linkedin.com/in/yauhendavidovich](http://www.linkedin.com/in/yauhendavidovich)  
+**GitHub:** [https://github.com/YauhenDavidovich/](https://github.com/YauhenDavidovich/)
 
 ## Summary
 
-I am currently employed in the Jewelry Manufacture as a CNC machines operator. Although I love my current role, I feel I&#39;m now ready for a more challenging assignment and the web development really excites me.
-I'm constantly engaged in self-improvement and strive to achieve results in what I do, my goal is to use my received knowledge in practice. I can describe myself as a hard-working, responsible and highly organized person. One of my main strength is the ability to work in a fast rhythm under pressure. I&#39;m a perfectionist. I pay attention to all the details, and like to be sure that everything is just right.
+😎 **Frontend Developer** || 📲 **React Developer**  
 
-## Skills
-
-**OS:** Windows, Linux
-
-**Automation Testing Tools:** Selenium Webdriver, Selenium IDE
-
-**Web Tools:** CSS, HTML, Sass, JavaScript, TypeScript, React
-
-**Adobe Creative Cloud:** Photoshop, Illustrator
-
-## Code examples
-
-[https://github.com/YauhenDavidovich/](https://github.com/YauhenDavidovich/)
+I am a passionate and dedicated frontend developer with over 2 years of experience building and maintaining responsive, user-friendly websites and applications. Proficient in HTML, CSS, and JavaScript, with a strong understanding of web design principles and a keen eye for detail. I have experience working with modern frontend frameworks such as Next.js and React. I am adept at working in agile development methodologies and communicating effectively with technical and non-technical stakeholders. Continuously learning and staying up-to-date with the latest developments in web technologies.
 
 ## Experience
 
-**09/2020 – 02/2021 – The Rolling Scopes School**
+### Frontend Developer at DeFi Gang
+**May 2023 - Present** (7 months)  
+*Remote*  
+**Skills:** SWR, web3.js, React Native, Next.js, React, Material-UI
 
-**Course: JavaScript/Front-end 2020 Q3**
+### Frontend Developer at Fastep. Internetowa platforma handlowa. Marketplace.
+**Oct 2022 - Jul 2023** (10 months)  
+*Cracow, Małopolskie, Poland - On-site*  
+**Skills:** Next.js, React, GraphQL, styled-components
 
-**04/2019 – 05/2019 – EPAM Systems**
+### Frontend Developer at IT-lead. Software development company
+**Feb 2022 - Sep 2022** (8 months)  
+*Cracow, Małopolskie, Poland - On-site*  
+- Customized and extended the functionality of the open-source platform, resulting in a highly tailored solution.
+- Increased collaboration with design and backend teams for a visually appealing and modern storefront.
+- Configured Webpack during Material 4 to MUI v5 migration, minimizing downtime.
+- Implemented i18next internationalization library, supporting 3+ languages.
+- Optimized website performance and improved user experience with server-side rendering tools.
 
-**Course: Software Testing Introduction**
+**Skills:** Redux Toolkit, Next.js, Front-End Development, React.js, Material-UI, GraphQL, styled-components, JavaScript
 
-**Description:**
+### Frontend Developer at PM Digital Transformation
+**Nov 2021 - Mar 2022** (5 months)  
+*Kyiv, Ukraine - Remote*  
+- Built and styled user interfaces for the website using React-Redux, Next.js, and styled components.
+- Developed custom pages and templates utilizing a design system for streamlined development.
+- Collaborated closely with the backend development team for seamless integration.
 
-- Planning and organization of the testing process.
-- Testing of documentation and requirements.
-- Development of tests and test scenarios.
-- Search and documentation of defects.
-- Reporting on test results.
-- Basics of automated testing.
-
-**12/2018 – 04/2019 – Educational Center of HTP**
-
-**Course: Python Test Automation**
-
-**Description:**
-
-- Linux: Installation and exploration. Shell basics. Commands execution. Bash configuration. Environment and tools. VCS.
-- Python: Overview and Syntax. IDE. Function and Tools. Debug. Troubleshooting. Unit tests. Exception handling and Regular Expression. Standard Library. Multithreading.Multiprocessing.
-- Automation: Software Testing. Automated Testing and Deployment. CI/CD.
+**Skills:** Redux Toolkit, Next.js, Front-End Development, REST APIs, styled-components
 
 ## Education
 
-**09/2020 – 11/2021 – RSSCHOOL**
+**Belarusian National Technical University**  
+*Bachelor's degree, Mechanical Engineering/Mechanical Technology/Technician*  
+**2006 - 2013**
 
-**09/2019 – 09/2019 – Codecademy**
+## Licenses & Certifications
 
-**Course: Introduction to HTML, Learn CSS**
+- **JS/FE IN ENGLISH (JAVASCRIPT)** - The Rolling Scopes School (Issued Jan 2022)
+- **Javascript/Front-end 2020 Q3** - The Rolling Scopes School (Issued Feb 2021)
 
-**04/2019 – 05/2019 – EPAM Systems**
+## Volunteering
 
-**Course: Software Testing Introduction**
+### Frontend Developer at JobJun
+**Oct 2021 - Dec 2021** (3 months)  
+*Science and Technology*  
+JobJun is a non-profit organization that provides a web platform for junior IT professionals seeking employment.
 
-**12/2018 – 04/2019 – Educational Center of HTP**
+## Languages
 
-**Course: Python Test Automation**
-
-**2006 – 2013 – Belarusian National Technical University**
-
-**Specialization: Technology of Mechanical Engineering**
-
-## English
-
-**03/2019 – 05/2019 – EN Discovery**
-
-**Course: Express Course (Intermediate)**
-
-**09/2018 – 11/2018 – Educational Center of HTP**
-
-**Course: English for IT (Pre-Intermediate)**
+- English (B1)
